@@ -1,0 +1,501 @@
+Station_ID,Location,Temperature_C,Humidity_%,Wind_Speed_kmh,Precipitation_mm,Air_Quality_Index,Date,Sensor_Status,Notes,Region,Elevation_m
+STN_0001,,-5.2,100%,15km/h,12.3,Severe,,OFF,Check sensor,South,Two Thousand
+STN_0002,Desrt ,-5.2,45,15km/h,0,,2025-10-01,ok,,North,Two Thousand
+STN_0003,Amazon,N/A,eighty,,rainy,Severe,03-10-25,Inactive,normal,North,
+STN_0004,Amazon,N/A,100%,,12.3,,2025-10-01,OFF,Data lost,Unknown,Two Thousand
+STN_0005,Amazon,30.1,35,12.5,0,150,03-10-25,ok,,Unknown,120
+STN_0006,Pacific,-5.2,75,18.2,12.3,,10/02/2025,OFF,Storm impact,,120
+STN_0007,Arctic,-5.2,90,18.2,4.5,Poor,10/02/2025,FAULTY,Calibration needed,,550
+STN_0008,Pacific,,90,,rainy,Severe,N/A,FAULTY,Storm impact,,N/A
+STN_0009,Arctic,N/A,,12.5,,Good,,OFF,Calibration needed,North,
+STN_0010,Pacific,-5.2,60,18.2,12.3,150,N/A,Inactive,Storm impact,South,2300
+,Pacific,thirty,75,12.5,4.5,Poor,03-10-25,Inactive,Check sensor,West,N/A
+STN_0012,,30.1,,12.5,,Moderate,N/A,OFF,,,2300
+STN_0013,Himalaya,40.3,75,12.5,,Severe,2025-10-01,ok,Calibration needed,South,550
+STN_0014,Pacific,thirty,35,25.7,20mm,Excellent,03-10-25,,Data lost,East,550
+STN_0015,,thirty,60,15km/h,12.3,Excellent,10/02/2025,Inactive,,,Two Thousand
+STN_0016,Sahara,40.3,100%,12.5,0,Good,,Active,Data lost,West,550
+STN_0017,Himalaya,15.7,100%,25.7,12.3,,03-10-25,FAULTY,,East,550
+STN_0018,Pacific,15.7,90,,4.5,Good,03-10-25,OFF,,East,2300
+STN_0019,Desrt ,30.1,100%,18.2,,Excellent,2025-10-01,Active,Storm impact,West,Two Thousand
+STN_0020,Amazon,thirty,100%,15km/h,12.3,Moderate,,OFF,Calibration needed,,550
+STN_0021,Sahara,-5.2,35,N/A,0,150,10/02/2025,FAULTY,Calibration needed,North,N/A
+STN_0022,Sahara,N/A,45,18.2,20mm,150,03-10-25,FAULTY,,West,550
+STN_0023,,30.1,90,15km/h,12.3,Severe,03-10-25,Inactive,Check sensor,West,Two Thousand
+STN_0024,Sahara,,,N/A,rainy,150,2025-10-01,Inactive,Check sensor,West,
+STN_0025,Himalaya,40.3,eighty,18.2,20mm,Severe,N/A,Active,Data lost,East,Two Thousand
+STN_0026,Pacific,thirty,45,15km/h,0,Severe,10/02/2025,OFF,Data lost,South,2300
+STN_0027,Pacific,30.1,,18.2,4.5,Severe,,FAULTY,Storm impact,North,
+STN_0028,Desrt ,22.5,60,18.2,,Excellent,03-10-25,Active,,,N/A
+STN_0029,Amazon,22.5,45,N/A,12.3,Excellent,03-10-25,,Data lost,,120
+STN_0030,,15.7,35,18.2,0,,10/02/2025,Active,Data lost,South,Two Thousand
+STN_0031,Amazon,40.3,,18.2,20mm,Poor,N/A,ok,normal,West,2300
+STN_0032,Sahara,N/A,60,N/A,rainy,Severe,03-10-25,Active,,North,N/A
+STN_0033,Desrt ,-5.2,90,,0,Severe,10/02/2025,ok,Storm impact,,
+STN_0034,Amazon,N/A,eighty,12.5,0.0,Poor,2025-10-01,ok,Data lost,Unknown,N/A
+STN_0035,Himalaya,N/A,60,Twenty,rainy,Good,N/A,ok,Storm impact,,Two Thousand
+STN_0036,Pacific,N/A,100%,25.7,20mm,Severe,,,Calibration needed,West,550
+STN_0037,Sahara,40.3,75,Twenty,4.5,,03-10-25,Active,Storm impact,Unknown,Two Thousand
+STN_0038,Desrt ,N/A,60,Twenty,,150,10/02/2025,Active,Check sensor,South,120
+STN_0039,Amazon,,60,15km/h,20mm,150,2025-10-01,,Check sensor,North,Two Thousand
+STN_0040,,40.3,eighty,12.5,4.5,Moderate,,FAULTY,Storm impact,South,
+STN_0041,Himalaya,,75,15km/h,12.3,Moderate,10/02/2025,Inactive,Check sensor,South,
+STN_0042,Himalaya,40.3,100%,12.5,0,150,10/02/2025,Active,Calibration needed,North,Two Thousand
+STN_0043,Amazon,15.7,,N/A,0.0,150,,Inactive,,North,
+STN_0044,Pacific,30.1,,N/A,rainy,Excellent,2025-10-01,OFF,Check sensor,,550
+STN_0045,Amazon,22.5,60,12.5,rainy,,2025-10-01,OFF,Check sensor,,N/A
+STN_0046,Sahara,N/A,35,18.2,0,Poor,N/A,,Storm impact,North,Two Thousand
+STN_0047,Amazon,15.7,35,,0.0,Moderate,03-10-25,OFF,Calibration needed,Unknown,550
+STN_0048,Himalaya,30.1,75,18.2,0,Excellent,,OFF,,East,N/A
+STN_0049,Desrt ,22.5,75,,12.3,Excellent,,FAULTY,Storm impact,,N/A
+STN_0050,Amazon,thirty,100%,15km/h,4.5,Poor,,FAULTY,Storm impact,East,550
+STN_0051,Pacific,-5.2,eighty,,20mm,Excellent,2025-10-01,FAULTY,normal,Unknown,2300
+STN_0052,Desrt ,,90,15km/h,rainy,,03-10-25,OFF,Calibration needed,North,Two Thousand
+STN_0053,,thirty,,N/A,12.3,150,N/A,,,Unknown,N/A
+STN_0054,Arctic,40.3,eighty,Twenty,4.5,Severe,10/02/2025,ok,Calibration needed,,N/A
+STN_0055,Amazon,22.5,45,N/A,12.3,Poor,10/02/2025,ok,,South,
+STN_0056,Pacific,thirty,,N/A,0.0,150,,Inactive,Calibration needed,North,N/A
+STN_0057,Desrt ,-5.2,eighty,Twenty,rainy,150,03-10-25,ok,Storm impact,West,550
+STN_0058,Pacific,15.7,,,20mm,Good,2025-10-01,ok,Storm impact,East,N/A
+STN_0059,,22.5,90,,0,Poor,03-10-25,FAULTY,Data lost,Unknown,2300
+STN_0060,Himalaya,thirty,45,15km/h,0,Excellent,03-10-25,FAULTY,Check sensor,North,Two Thousand
+STN_0061,Pacific,,35,18.2,4.5,Severe,2025-10-01,OFF,normal,Unknown,Two Thousand
+STN_0062,Desrt ,,35,15km/h,20mm,Poor,,Inactive,Calibration needed,North,N/A
+STN_0063,Pacific,30.1,90,18.2,,Excellent,03-10-25,Active,normal,,120
+STN_0064,Pacific,thirty,100%,N/A,0.0,150,10/02/2025,Inactive,Data lost,,120
+STN_0065,Pacific,N/A,45,Twenty,4.5,Severe,2025-10-01,Inactive,Check sensor,,550
+STN_0066,Sahara,thirty,60,N/A,,Excellent,N/A,,Calibration needed,Unknown,120
+STN_0067,Sahara,15.7,eighty,12.5,12.3,,,OFF,,West,550
+STN_0068,Himalaya,22.5,45,,0.0,Excellent,2025-10-01,,Check sensor,,
+STN_0069,Amazon,22.5,100%,18.2,12.3,Good,N/A,Inactive,Storm impact,North,550
+STN_0070,Pacific,15.7,100%,15km/h,20mm,150,N/A,Inactive,Data lost,,120
+STN_0071,,thirty,90,Twenty,rainy,Excellent,03-10-25,Inactive,Check sensor,South,N/A
+STN_0072,Amazon,15.7,,18.2,0.0,Moderate,03-10-25,ok,Check sensor,,
+,,-5.2,45,15km/h,,Moderate,03-10-25,,Storm impact,Unknown,120
+STN_0074,Amazon,40.3,eighty,,rainy,Good,2025-10-01,Inactive,Calibration needed,West,550
+STN_0075,Himalaya,15.7,45,N/A,0,,2025-10-01,FAULTY,,South,2300
+STN_0076,Pacific,,75,,,150,,OFF,Storm impact,Unknown,Two Thousand
+STN_0077,Pacific,15.7,,25.7,4.5,Poor,03-10-25,OFF,,Unknown,120
+STN_0078,Arctic,22.5,eighty,12.5,0,Good,N/A,FAULTY,Calibration needed,Unknown,550
+STN_0079,,,35,25.7,0,,10/02/2025,OFF,Check sensor,North,
+STN_0080,Amazon,22.5,eighty,Twenty,4.5,Poor,,ok,,Unknown,120
+STN_0081,Amazon,30.1,60,18.2,0.0,Moderate,2025-10-01,ok,Data lost,North,120
+STN_0082,Sahara,N/A,90,Twenty,0,Moderate,,Active,Data lost,Unknown,Two Thousand
+STN_0083,Arctic,22.5,60,N/A,20mm,Poor,,Active,Storm impact,East,550
+STN_0084,Desrt ,,eighty,15km/h,,Good,,Active,Calibration needed,South,2300
+STN_0085,Desrt ,30.1,,,rainy,Moderate,,OFF,Storm impact,East,
+STN_0086,Sahara,22.5,45,25.7,0,150,10/02/2025,ok,Storm impact,Unknown,550
+STN_0087,Sahara,-5.2,35,25.7,,Severe,03-10-25,ok,normal,South,
+STN_0088,Sahara,15.7,45,N/A,12.3,Excellent,N/A,ok,Storm impact,South,120
+STN_0089,,N/A,,25.7,,Poor,,FAULTY,normal,West,Two Thousand
+STN_0090,,22.5,eighty,N/A,rainy,Poor,,ok,Data lost,East,Two Thousand
+STN_0091,Himalaya,30.1,100%,Twenty,,Moderate,,FAULTY,Data lost,West,N/A
+STN_0092,Himalaya,-5.2,45,,4.5,Good,03-10-25,Active,Storm impact,South,2300
+STN_0093,Sahara,thirty,100%,18.2,rainy,150,2025-10-01,Active,Data lost,North,Two Thousand
+STN_0094,Arctic,30.1,45,15km/h,0.0,Good,2025-10-01,OFF,Calibration needed,South,120
+STN_0095,Amazon,15.7,45,18.2,12.3,,10/02/2025,Active,normal,West,2300
+STN_0096,,30.1,35,Twenty,4.5,,2025-10-01,OFF,normal,East,550
+STN_0097,Arctic,-5.2,90,15km/h,0.0,Severe,,Inactive,Storm impact,Unknown,Two Thousand
+STN_0098,Pacific,30.1,90,25.7,,Moderate,,Inactive,Data lost,Unknown,2300
+,,-5.2,75,12.5,rainy,Moderate,,,,East,120
+STN_0100,,22.5,60,Twenty,12.3,Moderate,10/02/2025,OFF,normal,Unknown,N/A
+STN_0101,Himalaya,40.3,,Twenty,4.5,Severe,,,Storm impact,Unknown,
+STN_0102,Amazon,-5.2,,,0.0,,2025-10-01,,Storm impact,West,
+STN_0103,Amazon,-5.2,,18.2,0.0,Good,03-10-25,Inactive,Calibration needed,East,120
+STN_0104,Desrt ,N/A,75,Twenty,12.3,Severe,03-10-25,OFF,Check sensor,,120
+STN_0105,Desrt ,-5.2,90,Twenty,20mm,Severe,N/A,Inactive,Check sensor,North,
+STN_0106,Desrt ,-5.2,eighty,25.7,,Good,2025-10-01,,normal,North,N/A
+STN_0107,Desrt ,thirty,100%,25.7,12.3,Moderate,,OFF,Calibration needed,Unknown,2300
+STN_0108,Pacific,40.3,35,15km/h,0.0,150,03-10-25,,Calibration needed,North,
+STN_0109,Pacific,22.5,100%,N/A,0,Good,2025-10-01,ok,Calibration needed,East,120
+STN_0110,,15.7,eighty,N/A,4.5,,03-10-25,OFF,normal,East,Two Thousand
+STN_0111,Sahara,N/A,35,12.5,12.3,Poor,,OFF,Check sensor,South,550
+STN_0112,Himalaya,thirty,75,N/A,20mm,Poor,03-10-25,,Calibration needed,South,N/A
+STN_0113,Himalaya,,eighty,,0.0,Excellent,N/A,ok,Data lost,North,N/A
+STN_0114,Desrt ,40.3,,12.5,,Excellent,N/A,FAULTY,Storm impact,,Two Thousand
+STN_0115,,22.5,60,15km/h,0.0,Severe,03-10-25,Inactive,Storm impact,South,Two Thousand
+STN_0116,Arctic,22.5,45,25.7,,Poor,2025-10-01,,,South,120
+STN_0117,Sahara,,100%,N/A,12.3,150,2025-10-01,OFF,,East,
+STN_0118,,15.7,90,18.2,,Moderate,2025-10-01,Inactive,normal,,2300
+STN_0119,Sahara,-5.2,90,25.7,rainy,,03-10-25,Inactive,normal,Unknown,N/A
+STN_0120,Sahara,thirty,75,,rainy,Excellent,2025-10-01,Inactive,Storm impact,North,N/A
+STN_0121,Sahara,30.1,35,25.7,rainy,150,,FAULTY,Data lost,South,Two Thousand
+STN_0122,,N/A,90,,20mm,,N/A,Active,Check sensor,,
+STN_0123,Desrt ,30.1,,,20mm,,,,Check sensor,,N/A
+STN_0124,Himalaya,,100%,,0,Moderate,2025-10-01,Active,normal,North,2300
+STN_0125,Himalaya,22.5,eighty,15km/h,20mm,Severe,,Active,Data lost,,Two Thousand
+STN_0126,Desrt ,15.7,,,12.3,Poor,2025-10-01,Active,normal,,2300
+STN_0127,Sahara,22.5,75,,0.0,Moderate,03-10-25,Inactive,Check sensor,,
+STN_0128,Arctic,N/A,,18.2,0.0,150,,ok,normal,South,N/A
+,Amazon,22.5,eighty,12.5,0,Severe,03-10-25,Inactive,Calibration needed,North,550
+STN_0130,,22.5,60,Twenty,20mm,150,03-10-25,Inactive,normal,,N/A
+STN_0131,Amazon,N/A,75,12.5,,Severe,10/02/2025,OFF,Storm impact,,
+STN_0132,Desrt ,thirty,60,,0,Excellent,2025-10-01,OFF,normal,South,N/A
+STN_0133,Arctic,thirty,45,18.2,,150,N/A,Active,Storm impact,North,N/A
+STN_0134,,N/A,60,25.7,,Moderate,2025-10-01,Inactive,Data lost,East,120
+STN_0135,Desrt ,15.7,45,18.2,4.5,Severe,N/A,Active,Check sensor,South,N/A
+STN_0136,Sahara,,45,,0.0,Severe,2025-10-01,OFF,,North,N/A
+STN_0137,Himalaya,40.3,60,18.2,rainy,,03-10-25,ok,,,2300
+STN_0138,Amazon,22.5,75,N/A,20mm,,,,Check sensor,North,550
+STN_0139,Pacific,15.7,35,18.2,,Good,,Active,,North,2300
+STN_0140,Pacific,22.5,eighty,,4.5,150,10/02/2025,ok,normal,Unknown,2300
+STN_0141,Arctic,40.3,,15km/h,0.0,,N/A,,Data lost,North,Two Thousand
+STN_0142,Sahara,,,N/A,rainy,Good,N/A,FAULTY,Data lost,East,120
+STN_0143,Amazon,thirty,eighty,18.2,,Excellent,N/A,Active,Check sensor,North,2300
+STN_0144,Sahara,15.7,100%,Twenty,,Excellent,03-10-25,Active,,East,
+STN_0145,Amazon,-5.2,100%,Twenty,0,,N/A,FAULTY,normal,,
+STN_0146,Arctic,-5.2,45,18.2,0,150,,FAULTY,Data lost,East,N/A
+STN_0147,Arctic,40.3,45,15km/h,0.0,Severe,03-10-25,Active,Data lost,,Two Thousand
+STN_0148,Pacific,-5.2,75,25.7,rainy,Poor,2025-10-01,FAULTY,Calibration needed,,120
+STN_0149,Sahara,thirty,90,,,150,N/A,Inactive,Calibration needed,East,120
+STN_0150,,40.3,60,Twenty,0.0,Moderate,N/A,,Data lost,South,N/A
+STN_0151,Pacific,thirty,45,25.7,0.0,Excellent,2025-10-01,,Check sensor,West,
+STN_0152,Sahara,,,18.2,12.3,,N/A,,Storm impact,North,550
+STN_0153,Pacific,22.5,75,25.7,20mm,,2025-10-01,Inactive,Storm impact,Unknown,Two Thousand
+STN_0154,,,60,N/A,0,Severe,03-10-25,FAULTY,normal,West,N/A
+STN_0155,Himalaya,,75,12.5,rainy,Moderate,,ok,Data lost,North,Two Thousand
+STN_0156,Himalaya,thirty,60,Twenty,,Severe,2025-10-01,FAULTY,Data lost,North,
+STN_0157,Himalaya,40.3,60,18.2,0.0,Moderate,10/02/2025,Active,Data lost,,
+STN_0158,Himalaya,40.3,eighty,,,Poor,2025-10-01,OFF,Check sensor,North,550
+STN_0159,Desrt ,-5.2,45,15km/h,12.3,Excellent,N/A,,Calibration needed,Unknown,550
+STN_0160,Amazon,30.1,35,N/A,rainy,,03-10-25,FAULTY,Data lost,North,120
+STN_0161,Desrt ,22.5,75,18.2,0.0,,03-10-25,ok,Data lost,East,Two Thousand
+STN_0162,Desrt ,thirty,35,,,Poor,2025-10-01,Active,,West,Two Thousand
+STN_0163,Desrt ,-5.2,75,15km/h,0,Good,,Inactive,Check sensor,East,
+STN_0164,Himalaya,15.7,eighty,15km/h,20mm,Excellent,10/02/2025,Inactive,normal,Unknown,120
+STN_0165,,30.1,,18.2,12.3,Severe,03-10-25,ok,Data lost,North,N/A
+STN_0166,Arctic,30.1,35,N/A,rainy,Poor,N/A,Active,,Unknown,Two Thousand
+STN_0167,Arctic,thirty,,25.7,12.3,Severe,N/A,,Storm impact,,120
+STN_0168,Amazon,N/A,100%,25.7,0,150,,FAULTY,normal,East,120
+STN_0169,Himalaya,22.5,45,15km/h,rainy,,03-10-25,Active,Data lost,East,
+STN_0170,Himalaya,30.1,45,25.7,12.3,Severe,2025-10-01,Inactive,Data lost,South,120
+STN_0171,Himalaya,thirty,90,12.5,4.5,Moderate,N/A,ok,,North,550
+,Pacific,thirty,eighty,15km/h,0,Severe,,ok,Check sensor,,550
+STN_0173,Sahara,-5.2,,15km/h,0,150,03-10-25,FAULTY,Data lost,East,2300
+STN_0174,Pacific,15.7,60,,0,Excellent,03-10-25,ok,Storm impact,East,
+STN_0175,Sahara,N/A,75,25.7,4.5,,03-10-25,ok,Data lost,,N/A
+STN_0176,Himalaya,22.5,45,N/A,4.5,Poor,03-10-25,Active,Storm impact,Unknown,2300
+STN_0177,Himalaya,40.3,35,15km/h,,150,03-10-25,,normal,Unknown,550
+STN_0178,Pacific,,75,N/A,0.0,,N/A,FAULTY,normal,North,2300
+STN_0179,Pacific,15.7,75,12.5,20mm,Severe,,Active,Calibration needed,South,
+STN_0180,Sahara,15.7,90,,12.3,Excellent,03-10-25,,Calibration needed,East,
+STN_0181,Arctic,-5.2,,18.2,,Good,10/02/2025,Active,Storm impact,South,120
+STN_0182,Sahara,40.3,45,N/A,12.3,Excellent,10/02/2025,OFF,Check sensor,Unknown,Two Thousand
+STN_0183,Pacific,30.1,75,15km/h,20mm,Good,,Active,Data lost,Unknown,120
+STN_0184,,30.1,45,12.5,0.0,Moderate,2025-10-01,ok,Data lost,West,
+STN_0185,Pacific,-5.2,60,Twenty,4.5,Excellent,2025-10-01,,Calibration needed,North,550
+STN_0186,,thirty,90,12.5,0.0,,2025-10-01,FAULTY,Storm impact,West,N/A
+STN_0187,Amazon,30.1,60,12.5,4.5,Good,10/02/2025,FAULTY,Data lost,West,550
+STN_0188,Pacific,N/A,45,,20mm,Poor,2025-10-01,,Data lost,West,120
+STN_0189,Amazon,22.5,100%,18.2,0.0,,N/A,ok,Check sensor,North,N/A
+STN_0190,Arctic,15.7,35,Twenty,,Poor,03-10-25,Inactive,,North,
+STN_0191,Sahara,15.7,45,25.7,rainy,Excellent,10/02/2025,Active,Calibration needed,,550
+STN_0192,,N/A,,25.7,,Poor,,ok,Calibration needed,South,
+STN_0193,Sahara,40.3,75,N/A,12.3,Good,,OFF,,South,N/A
+STN_0194,Amazon,30.1,75,12.5,,,03-10-25,,Data lost,,N/A
+STN_0195,,15.7,60,,20mm,Severe,10/02/2025,Active,Check sensor,,550
+STN_0196,Sahara,,35,,0,150,2025-10-01,FAULTY,Check sensor,Unknown,
+STN_0197,Pacific,40.3,90,25.7,12.3,Good,2025-10-01,Inactive,Calibration needed,West,2300
+STN_0198,Himalaya,22.5,100%,N/A,0.0,Good,N/A,OFF,Check sensor,,
+STN_0199,Amazon,22.5,eighty,N/A,12.3,Severe,N/A,FAULTY,normal,East,N/A
+STN_0200,Sahara,15.7,35,N/A,rainy,,2025-10-01,,,South,
+STN_0201,Amazon,-5.2,75,Twenty,4.5,,,Active,Data lost,,120
+STN_0202,Desrt ,40.3,,18.2,0.0,Excellent,,,normal,East,2300
+STN_0203,Amazon,15.7,35,Twenty,12.3,Poor,N/A,Active,,East,Two Thousand
+STN_0204,,-5.2,60,15km/h,0.0,Excellent,03-10-25,ok,Storm impact,East,120
+STN_0205,Desrt ,15.7,60,15km/h,0.0,Severe,2025-10-01,Inactive,Calibration needed,Unknown,Two Thousand
+,,,eighty,18.2,0.0,Excellent,N/A,ok,Check sensor,Unknown,550
+STN_0207,Himalaya,40.3,,25.7,4.5,Severe,N/A,ok,Storm impact,East,Two Thousand
+STN_0208,Desrt ,thirty,90,18.2,20mm,,2025-10-01,,Check sensor,Unknown,
+,Pacific,22.5,35,,,Poor,2025-10-01,Inactive,normal,West,Two Thousand
+STN_0210,Amazon,15.7,,15km/h,0.0,Excellent,,Active,Data lost,East,N/A
+STN_0211,Sahara,,90,12.5,0,Good,03-10-25,Active,Data lost,West,120
+STN_0212,Arctic,-5.2,,12.5,20mm,Moderate,03-10-25,OFF,Data lost,West,120
+STN_0213,Amazon,-5.2,,25.7,rainy,150,2025-10-01,FAULTY,Check sensor,East,Two Thousand
+STN_0214,Amazon,22.5,45,,4.5,Good,10/02/2025,OFF,Storm impact,South,120
+STN_0215,Himalaya,N/A,60,Twenty,12.3,,N/A,OFF,Data lost,East,N/A
+STN_0216,Pacific,15.7,35,,4.5,150,N/A,Active,Storm impact,East,120
+STN_0217,Arctic,40.3,,12.5,12.3,Moderate,2025-10-01,,Check sensor,Unknown,Two Thousand
+STN_0218,Desrt ,30.1,35,12.5,4.5,Moderate,10/02/2025,ok,normal,East,2300
+STN_0219,Desrt ,-5.2,eighty,15km/h,12.3,Poor,,ok,Storm impact,South,2300
+STN_0220,Desrt ,40.3,,,0.0,150,2025-10-01,ok,normal,Unknown,550
+STN_0221,,40.3,75,,,Poor,2025-10-01,Inactive,Check sensor,North,120
+STN_0222,,thirty,60,12.5,12.3,Good,N/A,Active,Check sensor,North,Two Thousand
+STN_0223,Sahara,40.3,75,Twenty,12.3,Severe,2025-10-01,,Calibration needed,West,120
+STN_0224,Arctic,40.3,35,25.7,0,Severe,2025-10-01,Inactive,Check sensor,West,
+STN_0225,Desrt ,thirty,35,N/A,12.3,Severe,2025-10-01,FAULTY,Check sensor,South,N/A
+STN_0226,,-5.2,60,25.7,0,150,N/A,,,,120
+STN_0227,Sahara,40.3,35,,rainy,Severe,,OFF,Data lost,North,120
+STN_0228,Pacific,N/A,75,25.7,0.0,Good,,,Calibration needed,West,2300
+STN_0229,Sahara,N/A,,12.5,0,Poor,2025-10-01,,Calibration needed,North,N/A
+STN_0230,,,,12.5,,150,N/A,ok,Calibration needed,South,Two Thousand
+STN_0231,Himalaya,thirty,45,,20mm,Poor,,,,South,120
+STN_0232,Himalaya,,eighty,,0.0,150,,OFF,normal,,2300
+STN_0233,Desrt ,thirty,35,N/A,0,Poor,,OFF,Check sensor,,550
+STN_0234,Himalaya,15.7,75,N/A,0.0,Moderate,N/A,Active,Data lost,Unknown,N/A
+STN_0235,Desrt ,15.7,35,15km/h,0.0,Poor,N/A,,Storm impact,South,2300
+STN_0236,Desrt ,40.3,35,,0.0,Severe,2025-10-01,ok,normal,West,2300
+STN_0237,,30.1,90,Twenty,rainy,Moderate,03-10-25,,Check sensor,North,2300
+,Himalaya,15.7,45,25.7,,Poor,,FAULTY,,East,120
+STN_0239,Desrt ,30.1,75,,4.5,150,03-10-25,FAULTY,Check sensor,,120
+STN_0240,Arctic,15.7,75,18.2,4.5,150,N/A,ok,Check sensor,East,550
+STN_0241,Pacific,22.5,35,15km/h,0,150,N/A,Active,,West,
+STN_0242,Sahara,15.7,45,18.2,0.0,,N/A,Active,Calibration needed,,
+STN_0243,Sahara,,,12.5,0,Good,03-10-25,OFF,Calibration needed,East,
+STN_0244,,-5.2,75,N/A,rainy,150,N/A,OFF,Data lost,West,N/A
+,Himalaya,40.3,,25.7,rainy,Moderate,2025-10-01,Inactive,Data lost,North,N/A
+STN_0246,Himalaya,,45,,12.3,150,N/A,ok,Calibration needed,West,550
+STN_0247,Desrt ,-5.2,,18.2,rainy,,10/02/2025,,normal,Unknown,N/A
+STN_0248,Amazon,N/A,60,25.7,12.3,Severe,03-10-25,ok,Storm impact,,
+STN_0249,Desrt ,,90,12.5,,Moderate,10/02/2025,Inactive,Check sensor,South,
+STN_0250,Pacific,N/A,100%,N/A,0,,N/A,OFF,Storm impact,North,2300
+STN_0251,Arctic,30.1,75,Twenty,20mm,Severe,2025-10-01,ok,Check sensor,East,N/A
+STN_0252,Sahara,30.1,eighty,15km/h,,Excellent,,ok,Calibration needed,,120
+STN_0253,Desrt ,22.5,90,25.7,rainy,Excellent,N/A,OFF,Data lost,South,120
+STN_0254,Amazon,15.7,100%,25.7,,Moderate,2025-10-01,Inactive,normal,West,2300
+STN_0255,Amazon,,,Twenty,,Poor,03-10-25,OFF,Data lost,South,2300
+STN_0256,Desrt ,N/A,75,25.7,,Good,10/02/2025,Active,Storm impact,,2300
+STN_0257,,-5.2,,12.5,rainy,Good,10/02/2025,,Data lost,,120
+STN_0258,Sahara,30.1,60,12.5,20mm,,10/02/2025,OFF,Calibration needed,Unknown,
+STN_0259,,15.7,45,Twenty,0.0,Severe,03-10-25,Inactive,normal,Unknown,2300
+STN_0260,Arctic,30.1,75,15km/h,,Good,2025-10-01,FAULTY,Storm impact,South,550
+STN_0261,Amazon,-5.2,100%,,12.3,Severe,03-10-25,Active,normal,West,2300
+STN_0262,Amazon,15.7,100%,18.2,rainy,Severe,10/02/2025,FAULTY,Check sensor,South,Two Thousand
+STN_0263,Pacific,15.7,60,,,,N/A,OFF,Data lost,,2300
+STN_0264,Arctic,N/A,60,25.7,20mm,,,Active,normal,,120
+STN_0265,Amazon,N/A,35,18.2,0.0,,03-10-25,,,East,N/A
+STN_0266,Arctic,,75,Twenty,rainy,Good,03-10-25,OFF,Data lost,Unknown,2300
+STN_0267,Sahara,,,Twenty,4.5,Excellent,2025-10-01,,Check sensor,East,N/A
+STN_0268,Himalaya,thirty,eighty,15km/h,0.0,,2025-10-01,ok,normal,North,Two Thousand
+STN_0269,Amazon,40.3,100%,18.2,12.3,Good,03-10-25,FAULTY,Storm impact,,550
+STN_0270,Pacific,thirty,100%,12.5,,,10/02/2025,Active,Check sensor,East,N/A
+STN_0271,Sahara,22.5,60,18.2,20mm,150,,,,South,
+STN_0272,Desrt ,30.1,90,25.7,4.5,Severe,2025-10-01,Inactive,normal,Unknown,2300
+STN_0273,Arctic,,60,12.5,20mm,,10/02/2025,,Calibration needed,Unknown,Two Thousand
+STN_0274,Desrt ,N/A,eighty,N/A,4.5,Moderate,N/A,Inactive,Data lost,West,Two Thousand
+STN_0275,,-5.2,,N/A,rainy,Severe,2025-10-01,OFF,Storm impact,South,N/A
+STN_0276,Sahara,N/A,,N/A,4.5,Severe,10/02/2025,Active,Calibration needed,West,550
+STN_0277,Desrt ,30.1,90,Twenty,12.3,,10/02/2025,,normal,East,120
+STN_0278,Amazon,thirty,100%,18.2,12.3,Excellent,,,normal,North,2300
+STN_0279,Arctic,N/A,60,N/A,0,Poor,,Active,Check sensor,South,Two Thousand
+STN_0280,Himalaya,40.3,35,,12.3,Excellent,N/A,,normal,South,550
+STN_0281,Sahara,22.5,,15km/h,0.0,,10/02/2025,Inactive,Storm impact,South,
+STN_0282,Amazon,30.1,eighty,,4.5,Severe,10/02/2025,,Calibration needed,West,Two Thousand
+STN_0283,Pacific,thirty,75,N/A,12.3,Moderate,,FAULTY,Storm impact,East,550
+STN_0284,,40.3,45,15km/h,rainy,Severe,2025-10-01,OFF,,South,120
+STN_0285,Arctic,-5.2,45,25.7,20mm,Excellent,2025-10-01,ok,,South,120
+STN_0286,Sahara,thirty,45,,20mm,Moderate,03-10-25,Inactive,Data lost,Unknown,Two Thousand
+STN_0287,Sahara,15.7,35,18.2,0,Good,,FAULTY,Data lost,North,Two Thousand
+STN_0288,Himalaya,40.3,100%,18.2,20mm,150,03-10-25,OFF,,Unknown,N/A
+STN_0289,Himalaya,40.3,60,,4.5,Severe,,Active,normal,Unknown,2300
+STN_0290,Pacific,22.5,90,N/A,0,,N/A,Inactive,Storm impact,North,550
+STN_0291,,30.1,35,18.2,4.5,Good,10/02/2025,ok,,East,Two Thousand
+STN_0292,Pacific,-5.2,35,25.7,rainy,150,N/A,OFF,Data lost,Unknown,2300
+STN_0293,Amazon,22.5,,12.5,0,,,ok,,East,N/A
+STN_0294,Amazon,thirty,75,N/A,,Poor,10/02/2025,Active,normal,Unknown,2300
+STN_0295,Pacific,22.5,35,25.7,0.0,,2025-10-01,Active,,,Two Thousand
+STN_0296,,40.3,eighty,15km/h,0.0,Moderate,2025-10-01,Inactive,Storm impact,North,120
+STN_0297,Pacific,30.1,75,25.7,4.5,Moderate,03-10-25,,Calibration needed,Unknown,550
+STN_0298,,,eighty,N/A,20mm,Poor,,Active,normal,,550
+STN_0299,,22.5,100%,15km/h,,Good,,OFF,Data lost,West,120
+STN_0300,Desrt ,15.7,60,N/A,0,150,2025-10-01,,Storm impact,,Two Thousand
+STN_0301,Arctic,22.5,45,18.2,,,N/A,FAULTY,,South,550
+STN_0302,,thirty,35,12.5,,Moderate,10/02/2025,ok,,Unknown,Two Thousand
+STN_0303,Himalaya,thirty,60,N/A,20mm,Good,N/A,,Calibration needed,,N/A
+STN_0304,,-5.2,100%,N/A,0,Poor,N/A,ok,Data lost,East,Two Thousand
+STN_0305,,thirty,90,18.2,rainy,Excellent,2025-10-01,,Data lost,West,2300
+STN_0306,,N/A,90,Twenty,20mm,Severe,2025-10-01,FAULTY,Check sensor,Unknown,120
+STN_0307,Desrt ,30.1,100%,18.2,,Excellent,2025-10-01,Active,Data lost,South,Two Thousand
+STN_0308,Desrt ,30.1,eighty,15km/h,,Excellent,03-10-25,FAULTY,Calibration needed,,N/A
+STN_0309,Amazon,,,18.2,rainy,Moderate,N/A,Active,Check sensor,West,
+STN_0310,Desrt ,,,18.2,,Poor,,Active,Check sensor,Unknown,120
+STN_0311,Himalaya,30.1,eighty,12.5,,,10/02/2025,ok,,West,550
+STN_0312,Himalaya,15.7,90,18.2,,Excellent,03-10-25,OFF,,South,2300
+,Desrt ,,90,N/A,0.0,Excellent,,FAULTY,Data lost,,550
+STN_0314,Pacific,-5.2,35,12.5,20mm,150,N/A,,Check sensor,West,N/A
+STN_0315,Arctic,thirty,90,,12.3,Moderate,2025-10-01,FAULTY,,West,N/A
+STN_0316,Desrt ,30.1,60,Twenty,20mm,Moderate,N/A,ok,Calibration needed,North,550
+STN_0317,,40.3,90,12.5,rainy,,10/02/2025,Active,,West,120
+STN_0318,Sahara,,75,15km/h,,Severe,03-10-25,ok,normal,North,550
+STN_0319,Arctic,30.1,35,,20mm,Good,03-10-25,Inactive,normal,,Two Thousand
+STN_0320,Arctic,N/A,45,12.5,0.0,150,10/02/2025,Inactive,,Unknown,550
+STN_0321,Himalaya,22.5,90,12.5,rainy,Moderate,,,Check sensor,Unknown,2300
+STN_0322,Arctic,thirty,eighty,Twenty,4.5,150,,ok,Check sensor,,2300
+STN_0323,Desrt ,30.1,45,N/A,20mm,Moderate,03-10-25,,Storm impact,,
+STN_0324,,22.5,60,15km/h,4.5,150,03-10-25,,normal,East,2300
+STN_0325,,,eighty,25.7,,Poor,2025-10-01,Inactive,Calibration needed,,550
+STN_0326,Amazon,22.5,45,25.7,0.0,Excellent,,,Check sensor,West,2300
+STN_0327,,thirty,eighty,12.5,0.0,Moderate,10/02/2025,Inactive,Data lost,Unknown,120
+STN_0328,,30.1,60,18.2,20mm,150,,Active,normal,South,2300
+STN_0329,Himalaya,N/A,35,15km/h,rainy,Good,2025-10-01,ok,Calibration needed,Unknown,Two Thousand
+STN_0330,,15.7,75,,rainy,Poor,03-10-25,,Calibration needed,North,120
+STN_0331,Amazon,,60,18.2,0.0,Poor,03-10-25,Inactive,Check sensor,Unknown,
+STN_0332,Sahara,30.1,60,18.2,rainy,Good,2025-10-01,FAULTY,Calibration needed,East,Two Thousand
+,Desrt ,thirty,eighty,15km/h,0.0,150,10/02/2025,,Check sensor,,550
+STN_0334,Himalaya,,35,N/A,20mm,,03-10-25,OFF,,,550
+STN_0335,Sahara,-5.2,100%,12.5,12.3,Good,N/A,Active,normal,Unknown,550
+STN_0336,Himalaya,22.5,,12.5,0.0,150,03-10-25,Active,Storm impact,South,Two Thousand
+STN_0337,Pacific,15.7,90,12.5,4.5,Good,N/A,FAULTY,,South,Two Thousand
+STN_0338,Arctic,thirty,90,12.5,rainy,Good,2025-10-01,Inactive,normal,East,Two Thousand
+STN_0339,Pacific,-5.2,75,25.7,0.0,Moderate,2025-10-01,,Check sensor,North,120
+STN_0340,,40.3,75,12.5,0.0,150,03-10-25,Inactive,normal,Unknown,N/A
+STN_0341,Sahara,30.1,90,25.7,20mm,,,Active,Check sensor,,120
+STN_0342,,N/A,,25.7,rainy,Excellent,N/A,Inactive,,Unknown,550
+STN_0343,Arctic,,90,N/A,12.3,Moderate,10/02/2025,Active,Data lost,East,N/A
+STN_0344,Himalaya,22.5,100%,12.5,20mm,Good,03-10-25,Inactive,Data lost,West,2300
+STN_0345,Arctic,,,Twenty,12.3,Excellent,10/02/2025,FAULTY,normal,West,550
+STN_0346,Amazon,15.7,75,,20mm,Severe,03-10-25,ok,Data lost,East,
+STN_0347,Arctic,30.1,45,18.2,rainy,Excellent,,FAULTY,Check sensor,,120
+STN_0348,Amazon,,eighty,25.7,0,Good,,FAULTY,Calibration needed,East,Two Thousand
+STN_0349,Arctic,22.5,100%,15km/h,rainy,Good,,ok,Check sensor,,120
+STN_0350,Desrt ,30.1,100%,15km/h,rainy,150,,ok,Calibration needed,South,Two Thousand
+STN_0351,Amazon,,35,,12.3,150,2025-10-01,,,East,N/A
+STN_0352,Sahara,N/A,75,15km/h,12.3,Moderate,2025-10-01,,Storm impact,,
+STN_0353,,thirty,75,Twenty,rainy,,N/A,FAULTY,Calibration needed,East,N/A
+STN_0354,,30.1,60,15km/h,rainy,Moderate,10/02/2025,FAULTY,Data lost,East,
+STN_0355,Pacific,thirty,100%,18.2,rainy,Poor,03-10-25,Active,Check sensor,,120
+STN_0356,,40.3,60,18.2,12.3,Good,03-10-25,Active,,,Two Thousand
+,Himalaya,30.1,60,25.7,rainy,Excellent,2025-10-01,,Data lost,North,N/A
+STN_0358,Desrt ,N/A,eighty,12.5,rainy,Severe,03-10-25,OFF,,East,
+STN_0359,Arctic,thirty,60,N/A,,Good,2025-10-01,OFF,Storm impact,West,550
+STN_0360,Pacific,-5.2,,Twenty,0,Good,N/A,,Check sensor,East,550
+STN_0361,Himalaya,22.5,90,25.7,4.5,Moderate,10/02/2025,Active,normal,East,N/A
+STN_0362,Himalaya,-5.2,45,Twenty,0,Severe,N/A,Active,Check sensor,,Two Thousand
+STN_0363,Amazon,,75,12.5,,Severe,,OFF,Storm impact,East,N/A
+STN_0364,,N/A,,15km/h,4.5,Severe,,Inactive,Check sensor,Unknown,120
+STN_0365,Sahara,-5.2,45,15km/h,20mm,Moderate,,Inactive,normal,East,
+STN_0366,Sahara,30.1,100%,N/A,rainy,Good,N/A,Active,Calibration needed,Unknown,120
+STN_0367,Pacific,,100%,12.5,,Moderate,03-10-25,Inactive,,West,550
+STN_0368,Desrt ,,100%,25.7,20mm,150,10/02/2025,ok,normal,,
+STN_0369,Sahara,-5.2,,N/A,rainy,150,,,Data lost,East,N/A
+STN_0370,Arctic,40.3,,12.5,12.3,Moderate,,,Storm impact,Unknown,120
+STN_0371,Sahara,-5.2,75,,0.0,Severe,,Active,Calibration needed,Unknown,2300
+,Pacific,40.3,90,18.2,,Good,10/02/2025,FAULTY,Data lost,Unknown,Two Thousand
+STN_0373,Sahara,N/A,35,N/A,12.3,Moderate,,OFF,Data lost,South,Two Thousand
+STN_0374,Arctic,22.5,60,N/A,,Moderate,10/02/2025,Active,Storm impact,North,2300
+STN_0375,Amazon,-5.2,100%,25.7,,Moderate,,Inactive,Calibration needed,West,550
+STN_0376,Desrt ,15.7,eighty,Twenty,12.3,Poor,N/A,OFF,Data lost,East,
+STN_0377,Pacific,40.3,90,,4.5,150,N/A,FAULTY,Data lost,South,Two Thousand
+,Amazon,-5.2,eighty,25.7,0,Excellent,10/02/2025,Inactive,Calibration needed,East,2300
+STN_0379,Amazon,thirty,75,12.5,rainy,Severe,N/A,ok,Check sensor,East,N/A
+STN_0380,Amazon,30.1,75,12.5,,,10/02/2025,Inactive,Data lost,,2300
+STN_0381,Himalaya,15.7,75,12.5,rainy,Excellent,N/A,ok,,,550
+STN_0382,Desrt ,15.7,45,12.5,0.0,Severe,N/A,OFF,Calibration needed,,550
+STN_0383,,40.3,eighty,Twenty,12.3,,10/02/2025,ok,Data lost,South,120
+STN_0384,Desrt ,thirty,90,,rainy,Poor,03-10-25,OFF,Storm impact,East,Two Thousand
+STN_0385,Himalaya,thirty,35,15km/h,12.3,Moderate,N/A,OFF,normal,North,120
+STN_0386,,,90,18.2,rainy,Poor,,OFF,,West,2300
+STN_0387,Desrt ,40.3,,Twenty,0,Poor,03-10-25,OFF,normal,,
+STN_0388,Amazon,22.5,,Twenty,0,Excellent,10/02/2025,OFF,normal,,
+STN_0389,Pacific,30.1,100%,15km/h,0,Good,03-10-25,Inactive,Data lost,East,550
+STN_0390,,N/A,35,15km/h,0,Excellent,2025-10-01,OFF,,East,
+STN_0391,Arctic,15.7,,18.2,0,150,2025-10-01,Inactive,,South,
+STN_0392,Arctic,N/A,75,18.2,0,,N/A,OFF,Check sensor,South,
+STN_0393,Sahara,-5.2,90,15km/h,12.3,Moderate,N/A,ok,normal,,2300
+STN_0394,,-5.2,eighty,12.5,,Excellent,,OFF,,East,
+STN_0395,Pacific,N/A,75,Twenty,rainy,,03-10-25,FAULTY,Check sensor,North,N/A
+STN_0396,Himalaya,-5.2,45,25.7,0,Severe,2025-10-01,OFF,Calibration needed,West,
+STN_0397,Amazon,22.5,,18.2,12.3,,N/A,OFF,Check sensor,East,
+STN_0398,Sahara,thirty,75,18.2,12.3,Severe,03-10-25,ok,Storm impact,East,120
+STN_0399,Arctic,-5.2,75,15km/h,12.3,Excellent,N/A,,Data lost,Unknown,2300
+STN_0400,Himalaya,,45,,,150,N/A,ok,Calibration needed,South,550
+STN_0401,Himalaya,-5.2,60,25.7,rainy,Excellent,2025-10-01,FAULTY,Calibration needed,West,120
+STN_0402,Amazon,30.1,90,25.7,,Severe,2025-10-01,,Storm impact,,Two Thousand
+STN_0403,,22.5,eighty,18.2,4.5,,N/A,Active,Check sensor,East,2300
+STN_0404,Arctic,30.1,100%,12.5,20mm,,10/02/2025,Active,Data lost,,N/A
+STN_0405,Pacific,30.1,60,,12.3,Severe,N/A,FAULTY,Check sensor,East,2300
+STN_0406,Himalaya,,,25.7,4.5,Poor,N/A,ok,,,Two Thousand
+STN_0407,Amazon,22.5,75,18.2,0.0,150,,Inactive,Check sensor,West,Two Thousand
+,Pacific,22.5,35,25.7,0,Good,,FAULTY,Calibration needed,South,Two Thousand
+STN_0409,,40.3,45,N/A,20mm,Moderate,,,Data lost,West,550
+STN_0410,Arctic,22.5,45,,0,,10/02/2025,,Check sensor,Unknown,
+STN_0411,,22.5,35,,,Moderate,10/02/2025,OFF,Data lost,North,2300
+STN_0412,Himalaya,22.5,90,N/A,20mm,Good,N/A,Active,Data lost,South,
+STN_0413,Pacific,,60,Twenty,rainy,Excellent,,,,West,
+STN_0414,Pacific,-5.2,100%,N/A,4.5,Moderate,10/02/2025,FAULTY,,Unknown,N/A
+STN_0415,Pacific,40.3,90,15km/h,rainy,Good,2025-10-01,,Calibration needed,North,Two Thousand
+STN_0416,Himalaya,30.1,35,15km/h,,Severe,N/A,FAULTY,Storm impact,Unknown,550
+STN_0417,Himalaya,22.5,75,18.2,0,Poor,03-10-25,Inactive,Data lost,East,N/A
+STN_0418,,15.7,35,,20mm,,N/A,OFF,Storm impact,East,120
+STN_0419,Sahara,-5.2,90,Twenty,rainy,Good,03-10-25,Active,Calibration needed,,550
+STN_0420,,-5.2,eighty,Twenty,rainy,Moderate,,,Data lost,South,
+STN_0421,Arctic,30.1,45,25.7,0,,03-10-25,FAULTY,Data lost,East,550
+STN_0422,Amazon,,45,25.7,20mm,Poor,,ok,normal,Unknown,Two Thousand
+STN_0423,Pacific,N/A,,N/A,4.5,Severe,2025-10-01,Active,Storm impact,South,120
+STN_0424,Sahara,N/A,,Twenty,0,Excellent,03-10-25,Inactive,Check sensor,East,Two Thousand
+STN_0425,Amazon,-5.2,35,N/A,rainy,,N/A,FAULTY,,,120
+STN_0426,Sahara,thirty,100%,N/A,4.5,Excellent,,OFF,Check sensor,West,N/A
+STN_0427,Desrt ,thirty,75,25.7,4.5,Good,N/A,OFF,Storm impact,,
+STN_0428,,30.1,eighty,,0,Poor,10/02/2025,Inactive,,North,120
+STN_0429,Himalaya,N/A,60,N/A,rainy,Moderate,,Inactive,Check sensor,East,120
+STN_0430,Pacific,-5.2,90,12.5,,Poor,03-10-25,OFF,normal,North,120
+STN_0431,,,100%,,rainy,Poor,,,,North,550
+STN_0432,Amazon,N/A,75,Twenty,12.3,150,N/A,,Data lost,Unknown,N/A
+STN_0433,Desrt ,-5.2,,Twenty,20mm,Poor,2025-10-01,FAULTY,Check sensor,South,550
+STN_0434,Desrt ,-5.2,35,N/A,0.0,Poor,,ok,,Unknown,
+STN_0435,Desrt ,22.5,90,,,,03-10-25,FAULTY,normal,East,120
+STN_0436,Amazon,,,25.7,4.5,Moderate,10/02/2025,ok,,North,N/A
+STN_0437,Amazon,22.5,35,25.7,,,2025-10-01,Inactive,,West,N/A
+STN_0438,Amazon,30.1,90,15km/h,20mm,,10/02/2025,Active,normal,North,2300
+STN_0439,Amazon,22.5,60,Twenty,4.5,Good,,FAULTY,Check sensor,West,
+STN_0440,Desrt ,15.7,75,18.2,20mm,,N/A,FAULTY,Calibration needed,Unknown,N/A
+STN_0441,Desrt ,22.5,90,15km/h,4.5,150,N/A,ok,Check sensor,Unknown,120
+STN_0442,Sahara,15.7,eighty,25.7,,150,03-10-25,Inactive,Storm impact,South,120
+STN_0443,,N/A,100%,,4.5,Excellent,N/A,Inactive,normal,North,N/A
+STN_0444,Pacific,thirty,45,25.7,4.5,Good,2025-10-01,ok,Check sensor,,550
+STN_0445,Himalaya,40.3,eighty,,12.3,Excellent,N/A,Inactive,,Unknown,
+STN_0446,Desrt ,40.3,eighty,15km/h,rainy,Excellent,03-10-25,OFF,normal,Unknown,120
+STN_0447,Himalaya,-5.2,100%,Twenty,rainy,Severe,,,Data lost,South,N/A
+STN_0448,,40.3,45,25.7,0.0,Moderate,,OFF,Check sensor,West,120
+STN_0449,,15.7,eighty,N/A,0.0,Moderate,N/A,Active,normal,South,N/A
+STN_0450,Himalaya,,90,,12.3,,10/02/2025,FAULTY,Check sensor,North,
+STN_0451,Desrt ,22.5,90,Twenty,0.0,,,Active,normal,East,N/A
+STN_0452,Himalaya,15.7,90,18.2,20mm,Severe,N/A,FAULTY,,East,2300
+STN_0453,Sahara,,45,,,,03-10-25,,Data lost,West,N/A
+STN_0454,Arctic,thirty,eighty,15km/h,0,Moderate,N/A,Inactive,Data lost,Unknown,N/A
+STN_0455,Desrt ,40.3,35,18.2,20mm,Excellent,,OFF,Storm impact,West,
+STN_0456,Desrt ,thirty,45,18.2,0,Poor,03-10-25,ok,normal,Unknown,N/A
+,Pacific,40.3,90,12.5,0,150,N/A,OFF,Check sensor,Unknown,
+STN_0458,Amazon,22.5,100%,25.7,12.3,Poor,2025-10-01,,Data lost,East,2300
+STN_0459,Arctic,30.1,eighty,,20mm,Poor,03-10-25,Active,Data lost,West,
+STN_0460,,22.5,eighty,18.2,12.3,Moderate,2025-10-01,ok,Calibration needed,South,120
+STN_0461,Desrt ,N/A,,12.5,4.5,Poor,10/02/2025,Inactive,Calibration needed,Unknown,
+STN_0462,Himalaya,15.7,,15km/h,0,Severe,03-10-25,,Data lost,,2300
+STN_0463,Arctic,-5.2,60,Twenty,,Good,2025-10-01,ok,normal,,Two Thousand
+STN_0464,Pacific,30.1,35,N/A,0.0,,,,Storm impact,South,N/A
+STN_0465,,22.5,35,N/A,,Good,,,Data lost,,
+STN_0466,Amazon,,75,,0.0,Excellent,10/02/2025,Inactive,,North,N/A
+STN_0467,Amazon,30.1,35,18.2,0,150,03-10-25,FAULTY,Check sensor,Unknown,550
+STN_0468,Pacific,15.7,,N/A,0,,03-10-25,ok,Storm impact,South,120
+STN_0469,Pacific,40.3,45,25.7,0,Poor,03-10-25,Inactive,,West,120
+STN_0470,Himalaya,30.1,35,N/A,12.3,150,10/02/2025,,Storm impact,Unknown,550
+,Desrt ,40.3,,N/A,20mm,,03-10-25,Inactive,,South,550
+STN_0472,Amazon,15.7,60,N/A,0.0,Severe,,FAULTY,Check sensor,East,
+STN_0473,,22.5,eighty,12.5,20mm,Severe,2025-10-01,OFF,Check sensor,West,550
+STN_0474,Arctic,15.7,35,18.2,12.3,Severe,,ok,Calibration needed,East,Two Thousand
+STN_0475,,30.1,60,25.7,12.3,Severe,,FAULTY,normal,Unknown,N/A
+STN_0476,Sahara,,eighty,18.2,rainy,Poor,2025-10-01,Active,,West,N/A
+STN_0477,Sahara,thirty,100%,,,Good,,ok,Calibration needed,,2300
+STN_0478,Pacific,30.1,100%,,,,10/02/2025,FAULTY,,South,550
+STN_0479,Himalaya,15.7,eighty,,4.5,Poor,2025-10-01,,Calibration needed,Unknown,550
+STN_0480,Sahara,thirty,35,15km/h,12.3,Severe,,ok,Check sensor,North,Two Thousand
+STN_0481,Amazon,15.7,75,N/A,0.0,Excellent,N/A,ok,Storm impact,West,120
+STN_0482,,,,15km/h,rainy,Good,,Inactive,Calibration needed,West,120
+STN_0483,,15.7,45,12.5,rainy,Excellent,10/02/2025,,,Unknown,N/A
+STN_0484,Pacific,22.5,45,,20mm,150,03-10-25,Active,,Unknown,N/A
+STN_0485,Desrt ,-5.2,90,25.7,,Excellent,,OFF,normal,East,
+STN_0486,Desrt ,40.3,eighty,18.2,12.3,150,03-10-25,FAULTY,Check sensor,,Two Thousand
+STN_0487,Arctic,40.3,45,N/A,4.5,150,N/A,Inactive,,East,2300
+STN_0488,Pacific,30.1,35,Twenty,12.3,Severe,,FAULTY,Data lost,East,2300
+STN_0489,Arctic,-5.2,75,25.7,20mm,150,2025-10-01,Active,Storm impact,,Two Thousand
+STN_0490,Desrt ,15.7,eighty,N/A,0,Moderate,03-10-25,Active,Calibration needed,North,2300
+STN_0491,Pacific,,75,15km/h,12.3,,N/A,ok,normal,East,120
+STN_0492,Pacific,30.1,35,15km/h,20mm,,2025-10-01,Active,Storm impact,East,2300
+STN_0493,Pacific,15.7,45,25.7,0,Severe,2025-10-01,FAULTY,Check sensor,West,2300
+STN_0494,Desrt ,thirty,45,15km/h,0,Moderate,2025-10-01,,normal,,Two Thousand
+STN_0495,Arctic,N/A,90,,4.5,Excellent,2025-10-01,,Calibration needed,South,Two Thousand
+STN_0496,Arctic,15.7,45,12.5,0.0,Poor,,ok,Calibration needed,North,2300
+STN_0497,Pacific,-5.2,eighty,18.2,,Excellent,,OFF,Data lost,North,550
+STN_0498,Sahara,30.1,35,12.5,12.3,Poor,,FAULTY,Check sensor,,Two Thousand
+STN_0499,Himalaya,-5.2,100%,N/A,0,150,N/A,FAULTY,normal,Unknown,
+STN_0500,Desrt ,30.1,35,18.2,12.3,Good,N/A,Active,normal,Unknown,
