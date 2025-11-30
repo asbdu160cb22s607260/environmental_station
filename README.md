@@ -1,73 +1,76 @@
 🌿 Environmental Station Data Analysis
+
 📌 Project Overview
 
-     This project demonstrates a complete data cleaning, preprocessing, and analytics workflow on a dataset collected from multiple environmental monitoring stations. The goal is to identify climate patterns, detect sensor anomalies, and derive insights into regional environmental conditions using Python’s pandas and visualization libraries.
+This project demonstrates a complete data cleaning, preprocessing, and analytics workflow on a dataset collected from multiple environmental monitoring stations. The goal is to identify climate patterns, detect sensor anomalies, and derive insights into regional environmental conditions using Python’s pandas and visualization libraries.
 
 📁 Dataset
 
-     The dataset contains 500 records and 12 columns, including:
+The dataset contains 500 records and 12 columns, including:
 
-       Station metadata
+Station metadata
 
-       Sensor readings (temperature, humidity, wind speed, precipitation, air quality)
+Sensor readings (temperature, humidity, wind speed, precipitation, air quality)
 
-       Event notes
+Event notes
 
-       Regional information
+Regional information
 
 ⚠️ Common Data Issues
 
-     The raw dataset included several real-world data problems such as:
+The raw dataset included several real-world data problems such as:
 
-       Missing values
+Missing values
 
-       Inconsistent formats (e.g., "Two Thousand" vs 2000)
+Inconsistent formats (e.g., "Two Thousand" vs 2000)
 
-       Duplicated entries
+Duplicated entries
 
-       Textual spelling or formatting errors
+Textual spelling or formatting errors
 
 🧹 Data Cleaning Process
+
 🔁 Duplicate Handling
 
-     Removed all duplicate rows to improve dataset reliability.
+Removed all duplicate rows to improve dataset reliability.
 
 🧩 Missing Value Treatment
 
-     Categorical fields (e.g., Location): Filled using mode.
+Categorical fields (e.g., Location): Filled using mode.
 
-     Numerical columns (e.g., Temperature): Filled using KNN Imputer.
+Numerical columns (e.g., Temperature): Filled using KNN Imputer.
 
-     Humidity: Used mean imputation and converted entries like "eighty" → 80.
+Humidity: Used mean imputation and converted entries like "eighty" → 80.
 
-     Elevation: Filled using forward-fill (FFILL) to maintain logical sequence.
+Elevation: Filled using forward-fill (FFILL) to maintain logical sequence.
 
 🛠 Standardization
 
-     Converted text-based numbers into integers.
+Converted text-based numbers into integers.
 
-     Standardized inconsistent data formats.
+Standardized inconsistent data formats.
 
-     Ensured correct data types across all columns.
+Ensured correct data types across all columns.
 
 📊 Analysis & Visualizations
 
-     Scatter plots to study temperature and humidity variations by region.
+Scatter plots to study temperature and humidity variations by region.
 
-     Average temperature charts to reveal geographic climate differences.
+Average temperature charts to reveal geographic climate differences.
 
-     Sensor status analysis and missing data pattern evaluation.
+Sensor status analysis and missing data pattern evaluation.
 
-     Saved cleaned dataset as EnvironmentalStationCleaned.csv for reproducibility.
+Saved cleaned dataset as EnvironmentalStationCleaned.csv for reproducibility.
 
 🚀 Tools & Libraries
 
-     Python 
+Python 
 
-     Pandas – data manipulation
+Pandas – data manipulation
 
-     NumPy – numerical operations
+NumPy – numerical operations
 
-     Matplotlib & Seaborn – visualizations
+Matplotlib & Seaborn – visualizations
 
-     Scikit-Learn – KNN imputation
+Scikit-Learn – KNN imputation
+
